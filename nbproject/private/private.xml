@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/resources/message_en.properties</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/util/I18n.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/util/CryptoUtil.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/ui/MainFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/model/User.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/util/EntrySerializer.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/ui/RegisterFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/Main.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/resources/message_id.properties</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/model/Entry.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/model/FoodItem.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/util/GenericRepository.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/KaloriManager/src/kalorimanager/util/MongoUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
